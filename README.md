@@ -1,4 +1,5 @@
 # Project Name - Online Inventory Control System for an apparel manufacturing company "CASANOVA".
+# The project was given a "A" grade.
 
 # Batch - Batch 08
 ### Group Leader - IT20198640 - Mr. Fernando W.T.P.R (IT20198640)
