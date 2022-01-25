@@ -3,6 +3,12 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
+    
+    "engines": {
+    "npm": ">=7.20.6",
+    "node": ">=16.13.1"
+    },
+    
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "server": "nodemon server.js",
